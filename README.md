@@ -38,3 +38,8 @@ Uma tupla é uma estrutura de dados em Python semelhante a uma lista, mas é imu
 Aqui, você encontrará um tutorial passo a passo sobre como buscar dados de ações da Apple e recriar gráficos de candlestick usando a biblioteca MPLFinance. Os gráficos de candlestick são uma forma eficaz de visualizar o preço de abertura, fechamento, máximo e mínimo de uma ação ao longo do tempo.
 ![image](https://github.com/Elbiabuglio/Imersao-Python-Do-Excel-a-Analise-de-Dados/assets/101484328/ff85d0d6-84d1-4b82-8188-28d4a76d5b22)
 
+# A Precisão do Prophet: Previsões em Séries Temporais Simplificadas
+ Prophet, desenvolvido pelo Facebook, se destaca na previsão de séries temporais, como os preços das ações. Reconhecido por sua simplicidade e capacidade de lidar com dados escassos ou irregulares, é uma ferramenta valiosa no mercado de ações. Usando dados da Johnson & Johnson como exemplo, é possível acessar e analisar os preços das ações desde 2020 até 2023 com facilidade, destacando a eficácia do Prophet.
+ ![image](https://github.com/Elbiabuglio/Imersao-Python-Do-Excel-a-Analise-de-Dados/assets/101484328/4a500ae6-42dd-4cde-b51f-8d438104688c)
+
+
